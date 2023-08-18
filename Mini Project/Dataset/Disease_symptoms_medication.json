@@ -1,0 +1,183 @@
+{
+  "diseases": [
+    {
+      "name": "Common Cold",
+      "symptoms": [
+        "Runny or stuffy nose",
+        "Sneezing",
+        "Coughing",
+        "Sore throat"
+      ],
+      "medications": [
+        {
+          "name": "Acetaminophen",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "500mg - 1000mg every 4-6 hours" },
+            { "age_range": "Children (6-12)", "dosage": "250mg - 500mg every 4-6 hours" },
+            { "age_range": "Children (2-6)", "dosage": "120mg - 250mg every 4-6 hours" }
+          ]
+        },
+        {
+          "name": "Ibuprofen",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "200mg - 400mg every 4-6 hours" },
+            { "age_range": "Children (6-12)", "dosage": "100mg - 200mg every 4-6 hours" },
+            { "age_range": "Children (2-6)", "dosage": "50mg - 100mg every 4-6 hours" }
+          ]
+        },
+        {
+          "name": "Decongestants",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "Refer to packaging instructions" },
+            { "age_range": "Children (6-12)", "dosage": "Refer to packaging instructions" }
+          ]
+        },
+        {
+          "name": "Antihistamines",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "Refer to packaging instructions" },
+            { "age_range": "Children (6-12)", "dosage": "Refer to packaging instructions" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Influenza (Flu)",
+      "symptoms": [
+        "Fever",
+        "Body aches",
+        "Fatigue",
+        "Cough",
+        "Sore throat"
+      ],
+      "medications": [
+        {
+          "name": "Oseltamivir",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "75mg twice daily for 5 days" },
+            { "age_range": "Children (1-12)", "dosage": "Dose based on weight - refer to doctor" }
+          ]
+        },
+        {
+          "name": "Zanamivir",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "Refer to doctor's instructions" },
+            { "age_range": "Children (7-12)", "dosage": "Refer to doctor's instructions" }
+          ]
+        },
+        {
+          "name": "Acetaminophen",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "500mg - 1000mg every 4-6 hours" },
+            { "age_range": "Children (6-12)", "dosage": "250mg - 500mg every 4-6 hours" }
+          ]
+        },
+        {
+          "name": "Ibuprofen",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "200mg - 400mg every 4-6 hours" },
+            { "age_range": "Children (6-12)", "dosage": "100mg - 200mg every 4-6 hours" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hypertension",
+      "symptoms": [
+        "High blood pressure",
+        "Headaches",
+        "Dizziness",
+        "Chest pain"
+      ],
+      "medications": [
+        {
+          "name": "Lisinopril",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "Dose based on doctor's prescription" }
+          ]
+        },
+        {
+          "name": "Amlodipine",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "Dose based on doctor's prescription" }
+          ]
+        },
+        {
+          "name": "Hydrochlorothiazide",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "Dose based on doctor's prescription" }
+          ]
+        },
+        {
+          "name": "Losartan",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "Dose based on doctor's prescription" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Type 2 Diabetes",
+      "symptoms": [
+        "Increased thirst",
+        "Frequent urination",
+        "Fatigue",
+        "Blurry vision"
+      ],
+      "medications": [
+        {
+          "name": "Metformin",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "Dose based on doctor's prescription" }
+          ]
+        },
+        {
+          "name": "Glipizide",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "Dose based on doctor's prescription" }
+          ]
+        },
+        {
+          "name": "Insulin",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "Dose based on doctor's prescription" }
+          ]
+        },
+        {
+          "name": "Empagliflozin",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "Dose based on doctor's prescription" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "COVID-19",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Shortness of breath",
+        "Loss of taste or smell",
+        "Fatigue",
+        "Muscle or body aches",
+        "Sore throat"
+      ],
+      "medications": [
+        {
+          "name": "Acetaminophen",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "500mg - 1000mg every 4-6 hours" },
+            { "age_range": "Children (12+)", "dosage": "Refer to doctor's instructions" }
+          ]
+        },
+        {
+          "name": "Ibuprofen",
+          "age_dosages": [
+            { "age_range": "Adults", "dosage": "200mg - 400mg every 4-6 hours" },
+            { "age_range": "Children (12+)", "dosage": "Refer to doctor's instructions" }
+          ]
+        }
+      ]
+    }
+  ]
+}
