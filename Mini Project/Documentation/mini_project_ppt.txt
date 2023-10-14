@@ -1,0 +1,42 @@
+Existing System:
+Earlier, healthcare delivery relied on traditional methods and systems in healthcare sector. The traditional methods includes Phone-Based Support, In-Person Appointments, Websites and Portals 
+
+
+Phone-Based Support: Patients would typically call healthcare providers, clinics, or hospitals to schedule appointments, seek medical advice, or inquire about their health concerns. This method often involved long wait times and could be inefficient.
+
+In-Person Appointments: Patients had to physically visit healthcare facilities for consultations, diagnoses, and treatment. This could result in delays, especially for non-emergency cases, and added to the administrative burden of healthcare providers.
+
+Websites and Portals: Many healthcare organizations had websites where patients could access general information about the services offered, find contact details, and sometimes schedule appointments online. However, these websites were often static and didn't offer interactive features.
+
+
+-----------------
+Proposed System:
+
+Medical Chatbot using NLP for Covid-19 in healthcare sector is a sophisticated and innovative healthcare solution designed to improve patient care, enhance healthcare accessibility, and streamline medical consultations.
+
+ Chatbot Project offers several significant benefits to both patients and healthcare organizations, including:
+
+Improved Patient Experience: Patients can access healthcare services conveniently and receive prompt responses to their queries, leading to higher satisfaction rates.
+
+Enhanced Efficiency: Healthcare organizations can optimize their resources by automating routine tasks, resulting in cost savings and improved resource allocation.
+
+Data-Driven Insights: The system generates valuable insights from user interactions, enabling healthcare providers to make data-driven decisions to enhance patient care.
+
+Accessibility: The chatbot is accessible from multiple platforms, including web and mobile devices, making it easy for patients to engage with the healthcare system.
+
+
+-----------------------------
+
+Abstract:
+
+This paper's principal aim is to provide a concise exposition on the promotion of chatbots within the medical field to combat infectious diseases effectively. We emphasize raising awareness among users and facilitating their access to suitable medical solutions for disease prevention. To achieve this, we have developed an initial training model and conducted an in-depth study aimed at improving human interaction within databases. Through the application of natural language processing techniques, we delve into the intricacies of chatbot behavior and characteristics. Within this manuscript, we introduce an AI Chatbot interaction and prediction model based on a deep feedforward multilayer perceptron. Our analysis highlights a noticeable gap in knowledge concerning the theoretical principles and practical recommendations for developing AI chatbots dedicated to lifestyle improvement programs. Furthermore, we provide a concise comparison of our proposed model's time complexity and testing accuracy. In our research, we have attained a minimal loss of 0.1232 and a peak accuracy of 94.32%. This study also explores the functionalities and potential applications of medical chatbots while addressing the challenges arising from the adoption of these emerging technologies, particularly during health crises like pandemics. We are confident that our findings will significantly contribute to researchers' understanding of the structure and applications of these revolutionary technologies, thereby aiding in the continuous enhancement of medical chatbot functionality and proving valuable in the fight against COVID-19.
+
+
+Our analysis highlights a noticeable gap in knowledge concerning the theoretical principles and practical recommendations for developing AI chatbots dedicated to lifestyle improvement programs. Furthermore, we provide a concise comparison of our proposed model's time complexity and testing accuracy. In our research, we have attained a minimal loss of 0.1232 and a peak accuracy of 94.32%. This study also explores the functionalities and potential applications of medical chatbots while addressing the challenges arising from the adoption of these emerging technologies, particularly during health crises like pandemics.
+
+----------------------------
+
+Introduction:
+Covid-19 is an ailment because of the SARS-CoV-2 virus.
+'World Health Organization (WHO)' has been declared a pandemic on March 11, 2020. Around 15 million human beings have been affected worldwide by more than one million deaths by covid-19.
+When someone gets severe Covid-19,the oxygen levels in the body get low. Patients suffered from enormous fevers, coughs, and lost sense of taste and smell, all of which became problematic when the SARS-CoV-2 virus invaded them. As a result, to prevent such massive problems associated with COVID-19 and facilitate a quick cure method, we have developed a Chatbot that facility an interconnection between users and computers in a natural manner. In the twenty-first century, artificial intelligence algorithms have been used to create a revolutionary medium with which users can interact with their needs to prevent and resolve acoustic problems easily; one of these is chatbots, a modern form of interaction. Chatbot systems use human interactions such as decision-making performing daily tasks, replying to users quickly, and solving problems like a human. Chatbots are also called communicational agents or answering engines. The first established medical chatbot —ELIZA— was programmed in 1966 to simulate a text-based conversation with a Psychotherapist.
